@@ -1,0 +1,41 @@
+# Development files
+src/
+node_modules/
+.env
+.env.*
+*.log
+
+# Build artifacts
+*.tsbuildinfo
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Tests
+test/
+tests/
+*.test.ts
+*.spec.ts
+
+# Git
+.git/
+.gitignore
+
+# Documentation (dev only)
+CHANGELOG.md
+CHANGELOG-v2.1.md
+SUMMARY.md
+MIGRATION.md
+FINAL-STATUS.md
+UI-FEATURES.md
+
+# Scripts
+test-request.sh
+
+# Assets (keep only demo.mp4)
+assets/demo-original.mp4
+
+# Keep only what's in "files" field of package.json
