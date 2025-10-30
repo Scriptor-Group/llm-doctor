@@ -1,6 +1,6 @@
 {
   "name": "llm-doctor",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "LLM Doctor - API Monitoring & Analysis Tool",
   "main": "src/server.ts",
   "type": "module",
@@ -21,16 +21,16 @@
     "README.md",
     "LICENSE"
   ],
-  "keywords": ["llm", "openai", "api", "monitoring", "testing", "error-simulation", "development-tools"],
-  "author": "",
+  "keywords": ["llm", "openai", "api", "monitoring", "testing", "error-simulation", "development-tools", "debugging", "terminal-ui", "llm-doctor", "anthropic", "azure", "ai"],
+  "author": "Devana <contact@devana.ai>",
   "license": "CC-BY-NC-SA-4.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/llm-doctor.git"
+    "url": "https://github.com/Scriptor-Group/llm-doctor.git"
   },
-  "homepage": "https://github.com/yourusername/llm-doctor#readme",
+  "homepage": "https://github.com/Scriptor-Group/llm-doctor#readme",
   "bugs": {
-    "url": "https://github.com/yourusername/llm-doctor/issues"
+    "url": "https://github.com/Scriptor-Group/llm-doctor/issues"
   },
   "dependencies": {
     "express": "^4.18.2",

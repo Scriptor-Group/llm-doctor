@@ -10,7 +10,7 @@
 
 **The ultimate development companion for building reliable LLM applications**
 
-<video src="https://github.com/user/repo/assets/demo.mp4" width="100%" controls></video>
+![LLM Doctor Demo](assets/demo-home.png)
 
 _Real-time monitoring, error simulation, and seamless API inspection in action_
 
@@ -123,7 +123,7 @@ llm-doctor --port 3000
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/llm-doctor.git
+git clone https://github.com/Scriptor-Group/llm-doctor.git
 cd llm-doctor
 
 # Install dependencies
